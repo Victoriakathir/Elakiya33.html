@@ -1,2 +1,26 @@
-# Elakiya33.html
-&lt;html> &lt;head>  TIME TABLE FOR ONLINE CLASSES &lt;/head> &lt;table> &lt;tr>  &lt;th> DATE &lt;/th> &lt;th> DAY  &lt;/th> &lt;th>  Subject &lt;/th> &lt;/tr> &lt;td> 16/20&lt;/td> &lt;td>  Thursday &lt;/td> &lt;td> Maths &lt;/td> &lt;/tr> &lt;tr> &lt;td > 17/20 &lt;/td> &lt;td> Friday &lt;/td> &lt;td> English &lt;/td> &lt;/tr> &lt;tr> &lt;td> 18/20 &lt;/td> &lt;td> Saturday &lt;/td> &lt;td>  Social Science &lt;/td> &lt;/tr> &lt;/table> &lt;/body> &lt;/html>
+
+<html>
+ <head>  TIME TABLE FOR ONLINE CLASSES </head>
+ <table> 
+<tr> 
+ <th> DATE </th>
+ <th> DAY  </th> 
+<th>  Subject </th> 
+</tr>
+ <td> 16/20 </td> 
+<td>  Thursday </td> 
+<td> Maths </td> 
+</tr> 
+<tr> 
+<td > 17/20 </td> 
+<td> Friday </td> 
+<td> English </td> 
+</tr> 
+<tr> 
+<td> 18/20 </td>
+ <td> Saturday </td> 
+<td>  Social Science </td> 
+</tr>
+ </table>
+ </body>
+ </html>
